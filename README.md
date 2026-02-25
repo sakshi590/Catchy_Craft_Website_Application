@@ -128,8 +128,16 @@ Tools Used:
 
 
 
----
+## 📷 Screenshots
 
+### Homepage
+![Homepage](Screenshot_20240407_215227.png)
+
+### Product Page
+![Product Page](Screenshot_20240407_215420.png)
+
+### Cart Page
+![Cart Page](Screenshot_20240408_125215.png)
 
 
 \## 👩‍🎓 Author
